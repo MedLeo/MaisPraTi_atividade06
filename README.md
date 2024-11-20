@@ -12,7 +12,7 @@ Adicionar modais interativos para exibir informações adicionais sobre os jogos
 ## Novo Slide com Link (Zelda): 
 Incluir um novo slide na seção de carrossel utilizando imagens fornecidas pelo professor. Esse slide deve conter informações sobre um novo jogo ou serviço e incluir um botão que leva a um link externo relevante.
 
-## Melhoria na Responsividade (Pendente): 
+## Melhoria na Responsividade - Pendente: 
 A página deve ser completamente responsiva, garantindo que o layout se ajuste adequadamente em diferentes tamanhos de tela (mobile, tablet, desktop). Ajustar os elementos como imagens, textos, e botões para melhorar a experiência do usuário em dispositivos móveis.
 
 ## Aprimoramento de Semântica HTML: 
